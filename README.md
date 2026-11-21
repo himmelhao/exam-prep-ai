@@ -24,7 +24,7 @@ You need **Python 3.11+** and a free Gemini API key.
 
 ```bash
 # 1. Get the code
-git clone https://github.com/<your-username>/exam-prep-ai.git
+git clone https://github.com/himmelhao/exam-prep-ai.git
 cd exam-prep-ai
 
 # 2. Create and activate a virtual environment
